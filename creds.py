@@ -1,6 +1,6 @@
 class Creds():
     #
-    TG_TOKEN = "1684477175:AAGihM1Mxvzu23UbuuAX_n9St8q-8pqTQ_Y"
+    TG_TOKEN = "1805872916:AAHQse_RLJgAxmHzNnkcm58cAOph0XOUB9c"
     
     
     
@@ -8,10 +8,10 @@ class Creds():
     # Because of pydrive And pydrive v2 Api
     
     #Folder Id Of Teamdrive
-    TEAMDRIVE_FOLDER_ID = "1l-98NfkdGoWaTEB4pyF1hxw148Zevssx"
+    TEAMDRIVE_FOLDER_ID = "1XNCxrxak8pEg72QAHWeRyxEo97CvNB-u"
     
     # Id of Team drive 
-    TEAMDRIVE_ID = "0AMr0RfmUkd3IUk9PVA"
+    TEAMDRIVE_ID = "0APMBIOC-IZHQUk9PVA"
     
     
     
